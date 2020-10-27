@@ -21,6 +21,10 @@ C++ is not my primary programming language and my understanding of it is very li
 * `macierz.cpp` - rotates 3x3 matrix 90 degrees to the right.
 * `322.cpp` - creates an array with 10 random integers and does some stuff on it.
 
+## Why are you calling a C++ program a script?
+
+Because I can.
+
 ## License
 
 MIT
