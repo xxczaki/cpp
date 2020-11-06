@@ -20,6 +20,9 @@ C++ is not my primary programming language and my understanding of it is very li
 * `10naDowolny.cpp` - decimal to selected system conversion.
 * `macierz.cpp` - rotates 3x3 matrix 90 degrees to the right.
 * `322.cpp` - creates an array with 10 random integers and does some stuff on it.
+* `ciagi.cpp` - checks sequence monotony.
+* `sortowanie.cpp` - bubble sorts an array.
+* `minmax2d.cpp` - checks the largest and smallest integer in a 2 dimensional array, shows the repetitions if necessary.
 
 ## Why are you calling a C++ program a script?
 
